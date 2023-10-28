@@ -1,0 +1,33 @@
+.company__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:  #770613;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    h1 {
+        font-family: Roboto Slab;
+        font-size: 54px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 64.8px;
+        color: white;
+    }
+
+    p {
+        padding-top: 30px;
+        font-family: Roboto Slab;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 33.5px;
+        color: white;
+    }
+    img{
+        width: 400px;
+        height: 400px;
+    }
+}

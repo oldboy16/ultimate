@@ -1,0 +1,18 @@
+.wrap__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 60px;
+
+    p {
+        width: 670px;
+        height: 424px;
+        color: #000;
+        font-family: Roboto Slab;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}
